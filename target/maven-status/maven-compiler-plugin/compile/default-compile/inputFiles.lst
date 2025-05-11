@@ -1,0 +1,9 @@
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\dto\Order.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\dto\PaymentMethod.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\exception\NoValidPaymentOptionException.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\Main.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\service\PaymentOptimizerService.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\strategy\CardPaymentStrategy.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\strategy\FullPointsPaymentStrategy.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\strategy\PartialPointsPaymentStrategy.java
+C:\Users\oskar\Desktop\Krowiak\Oskar_Karimov_Java_Krakow\src\main\java\org\example\strategy\PaymentStrategy.java

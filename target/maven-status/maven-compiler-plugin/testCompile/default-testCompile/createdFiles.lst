@@ -1,0 +1,4 @@
+org\example\service\PaymentOptimizerServiceTest.class
+org\example\strategy\PartialPointsPaymentStrategyTest.class
+org\example\strategy\CardPaymentStrategyTest.class
+org\example\strategy\FullPointsPaymentStrategyTest.class
